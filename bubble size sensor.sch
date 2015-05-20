@@ -8022,7 +8022,7 @@ Part M24M02-DRMN6TP from STMicroelectronics.</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.254" drill="0.508">
+<class number="0" name="default" width="0.2032" drill="0.508">
 <clearance class="0" value="0.254"/>
 </class>
 </classes>
